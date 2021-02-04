@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ugurcansoruc.github.io
+Token: c52fb7a65c98cd0346a76348c93766c4f1b12fb4d94e9079a69a0b3f12b7baa4
